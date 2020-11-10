@@ -190,7 +190,6 @@ background-size:100% 91.5%;background-attachment:fixed;background-position:botto
   <ul>
     <li><a  href="homepageAFT.php">home</a></li>
     <li><a href = "#"><a  href="manageCars.php">sell item</a></li>
-    <li><a href = "#"><a  href="update.php">update & delete</a></li>
     <li><a href = "#"><a  href="searchAFT.php">search</a></li>
     <li><a href = "#"><a class="active" href="account.php">account</a></li>
     <li><a href = "#"><a  href="signout.php">signout</a></li>

@@ -173,7 +173,6 @@ background-size:100% 91.5%;background-attachment:fixed;background-position:botto
   <ul>
     <li><a class="btn btn-outline-primary" href="homepageAFT.php">home</a></li>
     <li><a href = "#"><a class="btn btn-outline-primary" href="manageCars.php">sell item</a></li>
-    <li><a href = "#"><a  href="update.php">update & delete</a></li>
     <li><a href = "#"><a class="active" href="searchAFT.php">search</a></li>
     <li><a href = "#"><a  href="account.php">account</a></li>
     <li><a href = "#"><a class="btn btn-outline-primary" href="signout.php">signout</a></li>
