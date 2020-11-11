@@ -209,7 +209,7 @@ if(isset($_POST['keywords'])) {
       $year = '2015';
       $pr = '234234';
       $mileg = '34553';
-      $desc = 'jdfgjkdfnkjfdnjdfbnjdfnbkjdfbnkjdfbnkjdfb';
+      $desc = 'very good car';
 
       $em='abdulrahman.alsarrani@gmail.com';
       $ph='0505455387';
